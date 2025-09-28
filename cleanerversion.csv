@@ -1,1 +1,8 @@
-Crop;Approx_domestication;First_domestication_location;Soil_depth;Soil_nutrients;Preferred_rainfall;Temperature_range_C;Insolation;Preferred_soil_texture;Ph Range;Yield_low_t_ha;Yield_avg_t_ha;Yield_high_t_ha;Nitrogen Fixing (yes/no);Fibrous (yes/no);Spice (yes/no);Used for brewing tea/coffee/drinks;Fermented for beer/wine (yes/no);Sources (URLs), separate with `|` for parsing;Notes
+Crop;Scientific Name;Approx_domestication;First_domestication_location;Soil_depth;Soil_nutrients;Preferred_rainfall;Temperature_range_C;Insolation;Preferred_soil_texture;Ph Range;Yield_low_t_ha;Yield_avg_t_ha;Yield_high_t_ha;Nitrogen Fixing (yes/no);Fibrous (yes/no);Spice (yes/no);Used for brewing tea/coffee/drinks;Fermented for beer/wine (yes/no);Sources (URLs), separate with `|` for parsing;Notes
+Wheat;Triticum Aestivum;;;;;;;;;;;;;;;;;;;
+Asian Rice;Oryza Sativa;9000 BP;Yangtze River Basin;;;;;;;;;;;;;;;;Fornasiero, A., Wing, R. A., & Ronald, P. (2022). Rice domestication. ;
+African Rice;Oryza Glaberrima;3000 BP;Inland Niger Delta;;;;;;;;;;;;;;;;;
+Amazon Rice;Oryza Glumaepatula;5300 BP;Southwest Amazonia/Rondonia;;;;;;;;;;;;;;;;Hilbert, L., Neves, E. G., Pugliese, F., Whitney, B. S., Shock, M., Veasey, E., ... & Iriarte, J. (2017). Evidence for mid-Holocene rice domestication in the Americas.;
+Maize;Zea Mays;9000 BP;;;;;;;;;;;;;;;;;Matsuoka, Y., Vigouroux, Y., Goodman, M. M., Sanchez G, J., Buckler, E., & Doebley, J. (2002). A single domestication for maize shown by multilocus microsatellite genotyping. ;
+Barley;Hordeum Vulgare;;;;;;;;;;;;;;;;;;;
+Sorghum;Sorghum Bicolor;;;;;;;;;;;;;;;;;;;
